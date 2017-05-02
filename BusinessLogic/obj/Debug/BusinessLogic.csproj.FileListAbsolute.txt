@@ -1,0 +1,5 @@
+C:\Users\BeautifulLie\Desktop\Новая папка\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\BeautifulLie\Desktop\Новая папка\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\BeautifulLie\Desktop\Новая папка\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\BeautifulLie\Desktop\Новая папка\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\BeautifulLie\Desktop\Новая папка\BusinessLogic\obj\Debug\BusinessLogic.pdb

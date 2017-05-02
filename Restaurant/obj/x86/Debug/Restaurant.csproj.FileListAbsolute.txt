@@ -1,0 +1,10 @@
+C:\Users\BeautifulLie\Desktop\Новая папка\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\BeautifulLie\Desktop\Новая папка\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\BeautifulLie\Desktop\Новая папка\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\BeautifulLie\Desktop\Новая папка\Restaurant\bin\Debug\BusinessLogic.dll
+C:\Users\BeautifulLie\Desktop\Новая папка\Restaurant\bin\Debug\Polenter.SharpSerializer.dll
+C:\Users\BeautifulLie\Desktop\Новая папка\Restaurant\bin\Debug\BusinessLogic.pdb
+C:\Users\BeautifulLie\Desktop\Новая папка\Restaurant\bin\Debug\Polenter.SharpSerializer.xml
+C:\Users\BeautifulLie\Desktop\Новая папка\Restaurant\obj\x86\Debug\Restaurant.csprojResolveAssemblyReference.cache
+C:\Users\BeautifulLie\Desktop\Новая папка\Restaurant\obj\x86\Debug\Restaurant.exe
+C:\Users\BeautifulLie\Desktop\Новая папка\Restaurant\obj\x86\Debug\Restaurant.pdb
